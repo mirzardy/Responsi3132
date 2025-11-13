@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+
+    <string name="name_student">Mirza</string>
+    <string name="nim_student">24.12.3132</string>
+    <string name="about_me">Aplikasi Catatan Sederhana oleh Mirza</string>
+
+    <string name="add_note">Tambah Catatan</string>
+    <string name="hint_title">Judul Catatan</string>
+    <string name="hint_content">Isi Catatan</string>
+    <string name="priority_high">Penting</string>
+    <string name="priority_normal">Normal</string>
+    <string name="priority_low">Rendah</string>
+    <string name="btn_save">Simpan</string>
+    <string name="err_title_required">Judul tidak boleh kosong</string>
+    <string name="msg_note_saved">Catatan disimpan</string>
+</resources>
